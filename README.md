@@ -7,3 +7,5 @@ Scuderia Ferrari
 Aston Martin RedBull Racing
 McLaren F1 Team
 Renault F1 Team
+Haas Formula 1 Team
+BTW Sport Pesa F1
